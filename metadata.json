@@ -1,0 +1,6 @@
+{
+  "name": "Sojib Fashion",
+  "description": "Modern Bangladeshi fashion and skincare e-commerce store with cash on delivery, order tracking, and Google Tasks shopping integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
